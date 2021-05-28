@@ -1,9 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "/Users/dhruvgupta/Downloads/mysql-connector-java-8.0.24/mysql-connector-java-8.0.24.jar"
-    ],
-    "java.project.sourcePaths": [
-        "src"
-    ]
-}
